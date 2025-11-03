@@ -28,10 +28,6 @@ export default function Hero() {
       {/* Content */}
       <div className="container mx-auto px-4 z-10 text-center">
         <div className="max-w-4xl mx-auto animate-fade-in">
-          <div className="flex items-center justify-center gap-2 mb-6">
-            <MapPin className="w-5 h-5 text-secondary" />
-            <span className="text-secondary font-medium">Ulwe, Navi Mumbai</span>
-          </div>
           
           <h1 className="text-5xl md:text-7xl font-serif font-bold text-primary-foreground mb-6 leading-tight">
             Find Your Perfect
