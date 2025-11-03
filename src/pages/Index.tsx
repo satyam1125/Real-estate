@@ -65,12 +65,12 @@ export default function Index() {
 				</div>
 			</section>
 
-			{/* Why Choose Us */}
+			{/* Why Choose Km Enterprises */}
 			<section className="py-16">
 				<div className="container mx-auto px-4">
 					<div className="text-center mb-10">
 						<h2 className="text-4xl font-serif font-bold mb-3 text-foreground">
-							Why Choose Ulwe Real Estate
+							Why Choose Km Enterprises
 						</h2>
 						<p className="text-lg text-muted-foreground max-w-2xl mx-auto">
 							Local expertise, verified listings and end-to-end support to make
@@ -130,8 +130,7 @@ export default function Index() {
 								How do I schedule a visit?
 							</summary>
 							<p className="mt-2 text-muted-foreground">
-								Use the Call button on any detail page or contact us at +91 98765
-								43210.
+								Use the Call button on any detail page or contact us at +91 9768774217.
 							</p>
 						</details>
 
@@ -153,9 +152,11 @@ export default function Index() {
 				<div className="container mx-auto px-4">
 					<div className="grid grid-cols-1 md:grid-cols-3 gap-8">
 						<div>
-							<h4 className="text-2xl font-semibold mb-2">Ulwe Real Estate</h4>
+							<h4 className="text-2xl font-semibold mb-2">Km Enterprises</h4>
 							<p className="text-sm opacity-90">
-								Local experts with 15+ years experience across Navi Mumbai.
+								Owner: Kamlesh Mali
+								<br />
+								Office no 202, Plot no 69, Tulsi Aura CHS, Sector no-21, Ulwe 410206
 							</p>
 						</div>
 
@@ -187,14 +188,22 @@ export default function Index() {
 
 						<div>
 							<h4 className="text-lg font-semibold mb-2">Contact</h4>
-							<p className="text-sm opacity-90">Ulwe, Navi Mumbai</p>
 							<p className="text-sm opacity-90">
 								Phone:{" "}
 								<a
-									href="tel:+919876543210"
+									href="tel:+919768774217"
 									className="underline"
 								>
-									+91 98765 43210
+									+91 9768774217
+								</a>
+							</p>
+							<p className="text-sm opacity-90">
+								Email:{" "}
+								<a
+									href="mailto:info@kmenterprises.com"
+									className="underline"
+								>
+									info@kmenterprises.com
 								</a>
 							</p>
 						</div>
@@ -202,7 +211,7 @@ export default function Index() {
 
 					<div className="border-t border-white/20 mt-8 pt-6 text-center text-white/90">
 						<p>
-							&copy; {new Date().getFullYear()} Ulwe Real Estate Agency. All rights
+							&copy; {new Date().getFullYear()} Km Enterprises. All rights
 							reserved.
 						</p>
 					</div>

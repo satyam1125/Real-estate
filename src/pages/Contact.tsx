@@ -10,7 +10,7 @@ export default function Contact() {
       <main className="pt-28 pb-20">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center mb-12">
-            <h1 className="text-4xl font-serif font-bold mb-2 text-foreground">Contact Us</h1>
+            <h1 className="text-4xl font-serif font-bold mb-2 text-foreground">Contact Km Enterprises</h1>
             <p className="text-muted-foreground">
               Let's discuss your requirements — buy, sell or rent. Our team will guide you end-to-end.
             </p>
@@ -21,9 +21,14 @@ export default function Contact() {
               <h3 className="text-xl font-semibold mb-4 text-foreground">Office & Contact Info</h3>
 
               <div className="space-y-4 text-muted-foreground">
-                <p><strong>Address:</strong> Ulwe, Navi Mumbai</p>
-                <p><strong>Phone:</strong> <a className="hover:underline" href="tel:+919876543210">+91 98765 43210</a></p>
-                <p><strong>Email:</strong> <a className="hover:underline" href="mailto:info@ulwerealestate.com">info@ulwerealestate.com</a></p>
+                <p><strong>Owner:</strong> Kamlesh Mali</p>
+                <p><strong>Address:</strong></p>
+                <p>Office no 202</p>
+                <p>Plot no 69</p>
+                <p>Tulsi Aura CHS</p>
+                <p>Sector no-21, Ulwe 410206</p>
+                <p><strong>Phone:</strong> <a className="hover:underline" href="tel:+919768774217">+91 9768774217</a></p>
+                <p><strong>Email:</strong> <a className="hover:underline" href="mailto:info@kmenterprises.com">info@kmenterprises.com</a></p>
                 <p>We are available Monday–Saturday, 9:30 AM – 7:00 PM. Prefer a callback? Submit your details and we will call you.</p>
               </div>
 

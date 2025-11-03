@@ -12,7 +12,7 @@ const sample = [
 		price: "₹65 Lakh",
 		img: flatImage,
 		location: "Ulwe Sector 20",
-		contact: "+919876543210",
+		contact: "+919768774217",
 		description:
 			"Premium 3 BHK with modern fittings, two terraces, reserved parking, and close to schools & metro. Clear title, immediate handover.",
 	},
@@ -22,7 +22,7 @@ const sample = [
 		price: "₹42 Lakh",
 		img: flatImage,
 		location: "Ulwe Sector 15",
-		contact: "+919876543210",
+		contact: "+919768774217",
 		description:
 			"Well-priced 2 BHK in a developing project. Good rental yield potential. Assistance available for bank financing and documentation.",
 	},
@@ -51,9 +51,7 @@ const FlatsSale = () => {
 				<div className="container mx-auto px-4">
 					<div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
 						{sample.map((category, index) => {
-							return (
-								<PropertyCard key={category.id} {...category} />
-							);
+							return <PropertyCard key={category.id} {...category} />;
 						})}
 					</div>
 

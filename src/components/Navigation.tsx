@@ -12,6 +12,7 @@ const Navigation = () => {
     { name: "About", path: "/about" },
     { name: "Services", path: "/services" },
     { name: "Gallery", path: "/gallery" },
+    { name: "Contact", path: "/contact" },
   ];
 
   const isActive = (path: string) => location.pathname === path;
@@ -25,10 +26,9 @@ const Navigation = () => {
             <div className="w-12 h-12 rounded-lg bg-gradient-to-br from-blue-400 to-indigo-500 flex items-center justify-center text-white transition-transform group-hover:scale-105">
               <Building2 className="w-7 h-7" />
             </div>
-            {/* show the name on all viewports; scale text responsively */}
             <div className="block">
               <h1 className="text-base sm:text-lg md:text-xl font-serif font-bold text-slate-800">
-                Ulwe Real Estate
+                KM Enterprises
               </h1>
             </div>
           </Link>

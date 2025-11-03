@@ -9,7 +9,7 @@ const sample = [
     price: "₹55,000 / month",
     img: shopImage,
     location: "Ulwe Market Road",
-    contact: "+919876543210",
+    contact: "+919768774217",
     description:
       "Ground-floor retail unit with full glass frontage, high footfall, 300 sq.ft approx. Ideal for cafe, retail or services.",
   },

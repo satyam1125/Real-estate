@@ -9,7 +9,7 @@ const sample = [
     price: "₹45 Lakh (Sale) / Enquire for rent",
     img: officeImage,
     location: "Ulwe Business Park",
-    contact: "+919876543210",
+    contact: "+919768774217",
     description:
       "Flexible open-plan office with fitted MEP, conferencing area, dedicated parking. Good for startups and SME HQs.",
   },

@@ -14,7 +14,7 @@ const sample = [
 		price: "₹18,000 / month",
 		img: flatImage,
 		location: "Ulwe Sector 18",
-		contact: "+919876543210",
+		contact: "+919768774217",
 		description:
 			"Spacious 2 BHK with park-facing balcony, modular kitchen, covered parking, 24/7 security. Available furnished. Minimum 6-month lease.",
 	},
@@ -24,7 +24,7 @@ const sample = [
 		price: "₹9,500 / month",
 		img: flatImage,
 		location: "Ulwe Sector 12",
-		contact: "+919876543210",
+		contact: "+919768774217",
 		description:
 			"Well-lit 1 BHK ideal for professionals. Gated community with gym and lift. Utilities not included.",
 	},
